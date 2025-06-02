@@ -1,0 +1,32 @@
+[
+  {
+    "name": "🔄 Process Improvement",
+    "description": "Workflow optimization, process enhancement, and efficiency improvements",
+    "color": "1d76db"
+  },
+  {
+    "name": "💼 Administrative",
+    "description": "Administrative tasks, compliance, and organizational duties",
+    "color": "7057ff"
+  },
+  {
+    "name": "🗓️ Scheduling",
+    "description": "Timeline planning, resource allocation, and calendar management",
+    "color": "008672"
+  },
+  {
+    "name": "💰 Budget/Resources",
+    "description": "Financial planning, resource management, and cost tracking",
+    "color": "fbca04"
+  },
+  {
+    "name": "⚠️ Risk Management",
+    "description": "Risk assessment, mitigation strategies, and contingency planning",
+    "color": "d93f0b"
+  },
+  {
+    "name": "🔍 Quality Assurance",
+    "description": "Quality control, testing, review processes, and standards compliance",
+    "color": "0e8a16"
+  }
+]
